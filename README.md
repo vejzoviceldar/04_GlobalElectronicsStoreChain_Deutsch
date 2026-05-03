@@ -119,37 +119,37 @@ Obwohl London die meisten Filialen hatte, war Moskau insgesamt die stärkste Sta
 
 #### **Visuals**
 
-Top 10 Städte nach Umsatz:
+1. Top 10 Städte nach Umsatz:
 
 ![image9](Screenshots/09_Top_10_Cities.png)  
 
 ---
 
-Umsatztreiber und Bestseller:  
+2. Umsatztreiber und Bestseller:  
 
 ![image10](Screenshots/10_Revenue_Drivers.png)
 
 ---
 
-Die leistungsstärksten Geschäfte:
+3. Die leistungsstärksten Geschäfte:
 
 ![image11](Screenshots/11_Best_Performing_Stores.png)
 
 ---
 
-Umsatzanteil nach Filialtyp:
+4. Umsatzanteil nach Filialtyp:
 
 ![image12](Screenshots/12_Revenue_Share_by_Storetype.png)
 
 ---
 
-Korrelation zwischen Lagerbestand und Umsatz:
+5. Korrelation zwischen Lagerbestand und Umsatz:
 
 ![image13](Screenshots/13_Stock_to_Sales_Correlation.png)
 
 ---
 
-Gesamtzahl der Filialen pro Stadt:
+6. Gesamtzahl der Filialen pro Stadt:
 
 ![image14](Screenshots/14_Total_Stores_per_City.png)
 
