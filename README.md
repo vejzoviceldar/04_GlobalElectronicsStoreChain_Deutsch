@@ -15,7 +15,7 @@ Daraus ergeben sich folgende Empfehlungen:
 
 Dieses deskriptive Dashboard zeigt den Gesamtumsatz, die Anzahl der Filialen und Städte sowie die Top 10 Filialen & Städte und den täglichen Umsatz in der ersten Woche 2017.  
 
-![image.png](attachment:image.png)  
+![image1](Screenshots/01_Descriptive_Dashboard.png)  
 
 ## **3. Dataset Überblick**
 
@@ -24,7 +24,7 @@ Dieses deskriptive Dashboard zeigt den Gesamtumsatz, die Anzahl der Filialen und
 **Zeitraum**: *Jan 02 - Jan 05 (2017)*
 
 Datensatz Tabellen:  
-![image-15.png](attachment:image-15.png)  
+![image2](Screenshots/02_03_Dataset_Overview.png)  
 
 ## **4. Datenbereinigung & Vorbereitung**
 
@@ -40,7 +40,7 @@ Datensatz Tabellen:
 
 1. Datensatz heruntergeladen und strukturiert  
 
-![image-15.png](attachment:image-15.png)  
+![image3](Screenshots/02_03_Dataset_Overview.png)  
 *Datensatz Ordner*
 
 ---
@@ -49,7 +49,7 @@ Datensatz Tabellen:
 |  
 v  
 Beispiel (früher und später):  
-![image-4.png](attachment:image-4.png) zum ![image-8.png](attachment:image-8.png)  
+![image4](Screenshots/04_Cleaning.png) zum ![image5](Screenshots/05_Cleaning.png)  
 
 ---
 
@@ -57,18 +57,18 @@ Beispiel (früher und später):
 
 Excel:  
 
-![image-5.png](attachment:image-5.png)  
+![image6](Screenshots/06_Excel_Analysis.png)  
 
 
 SQL:  
 
-![image-7.png](attachment:image-7.png)  
+![image7](Screenshots/07_SQL_Analysis.png)  
 
 ---
 
 4. Interaktive Power BI Dashboards erstellt (Descriptive, Products, Stores, Cities)  
 
-![image-9.png](attachment:image-9.png)  
+![image8](Screenshots/08_Interactive_BI_Dashboard_Cities.png)  
 
 ---
 
@@ -121,37 +121,37 @@ Obwohl London die meisten Filialen hatte, war Moskau insgesamt die stärkste Sta
 
 Top 10 Städte nach Umsatz:
 
-![image-6.png](attachment:image-6.png)  
+![image9](Screenshots/09_Top_10_Cities.png)  
 
 ---
 
 Umsatztreiber und Bestseller:  
 
-![image-10.png](attachment:image-10.png)
+![image10](Screenshots/10_Revenue_Drivers.png)
 
 ---
 
 Die leistungsstärksten Geschäfte:
 
-![image-11.png](attachment:image-11.png)  
+![image11](Screenshots/11_Best_Performing_Stores.png)
 
 ---
 
 Umsatzanteil nach Filialtyp:
 
-![image-12.png](attachment:image-12.png)  
+![image12](Screenshots/12_Revenue_Share_by_Storetype.png)
 
 ---
 
 Korrelation zwischen Lagerbestand und Umsatz:
 
-![image-13.png](attachment:image-13.png)  
+![image13](Screenshots/13_Stock_to_Sales_Correlation.png)
 
 ---
 
 Gesamtzahl der Filialen pro Stadt:
 
-![image-14.png](attachment:image-14.png)  
+![image14](Screenshots/14_Total_Stores_per_City.png)
 
 ## **8. Key Insights**
 
